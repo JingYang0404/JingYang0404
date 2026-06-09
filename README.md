@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Jing Yang, a fourth year Artificial Intelligence Student in Xiamen University Malaysia
+- 👋 Hi, I’m Jing Yang, a  Artificial Intelligence Graduate from Xiamen University Malaysia currently working in Gretech Consulting Management as a Product Specialist / Data Analyst.
 - 👀 I’m interested in Machine Learning, Natural Language Processing, LLM and software Programming related stuff
-- 🌱 I’m currently interning and gaining valuable hands-on experience in Oppstar Technology
+
 
 - ⚡ Fun fact: I am also a powerlifter who loves to go to gym 
 
